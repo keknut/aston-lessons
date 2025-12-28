@@ -6,5 +6,4 @@ public abstract class BevarageDecorator implements Bevarage{
     public BevarageDecorator(Bevarage bevarage) {
         this.bevarage = bevarage;
     }
-
 }

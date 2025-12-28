@@ -14,5 +14,4 @@ public class Context {
             throw new IllegalStateException("Strategy not set");
         }
     }
-
 }
